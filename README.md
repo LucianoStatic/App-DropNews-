@@ -12,7 +12,7 @@ Tech's utilizadas:
 Kotlin ->
 Retrofit->
 Room ->
-Corountines *Obs: Ainda estou em fase de aprendizado, não é nada performático ou lindo da pro gasto!*
+Corountines *Obs: Ainda estou em fase de aprendizado, não é nada performático ou lindo, da pro gasto!*
 
 
 
